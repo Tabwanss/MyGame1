@@ -6,7 +6,7 @@ public class MyScript : MonoBehaviour
 {
     
     void Start()
-{
+ {
     for (int n = 1 ; n <= 100 ; n++) 
     {
         print(n);
@@ -31,7 +31,7 @@ public class MyScript : MonoBehaviour
         print (result);
         return result;
     }
-    }
+ }
 
 
 }
