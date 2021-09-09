@@ -31,7 +31,11 @@ public class MyScript : MonoBehaviour
         print (result);
         return result;
     }
+     int i = 1;
+      while (i <= 100){
+        print (i) ;
+         i = i + 2;
+        }
+      
  }
-
-
 }
